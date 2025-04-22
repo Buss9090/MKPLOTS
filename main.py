@@ -14,7 +14,7 @@ from pystyle import Colors, Colorate
 from rhvendas import RHvendas
 
 __CHANNEL_USERNAME__ = "mk_plots"
-__GROUP_USERNAME__   = "5521998189601"
+__GROUP_USERNAME__   = "(21)998189601"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
