@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from rhvendas import rhvendas
+from rhvendas import RHvendas
 
 __CHANNEL_USERNAME__ = "mk_plots"
 __GROUP_USERNAME__   = "(21)998189601"
